@@ -1,0 +1,10 @@
+C:\Users\eren_\Desktop\örnekc#\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe.config
+C:\Users\eren_\Desktop\örnekc#\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe
+C:\Users\eren_\Desktop\örnekc#\Polymorphism\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\eren_\Desktop\örnekc#\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\örnekc#\Polymorphism\Polymorphism\obj\Debug\Polymorphism.Form1.resources
+C:\Users\eren_\Desktop\örnekc#\Polymorphism\Polymorphism\obj\Debug\Polymorphism.Properties.Resources.resources
+C:\Users\eren_\Desktop\örnekc#\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.GenerateResource.cache
+C:\Users\eren_\Desktop\örnekc#\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
+C:\Users\eren_\Desktop\örnekc#\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb
